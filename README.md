@@ -1,5 +1,15 @@
 # Week 8
 
+### Day 51: July 9, Monday.
+
+**Today's Progress**: Parsing Dates and Time. Anytime, lubridate packages.
+
+**Thoughts** 
+- Today I have more detailed knowledge of parsing date and time.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_8_100DaysOfCode/blob/master/weekday/Day_51.R)
+
 ### Day 50: July 8, Sunday. Medium challange.
 
 **Today's Progress**: K-Means Clustering.
